@@ -1,0 +1,4 @@
+Mgmt._ip:10.0.0.1
+Sdn_controller:10.20.2.2
+Auth_server:10.30.3.3
+Yellow: Id: 30
